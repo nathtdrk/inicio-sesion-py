@@ -32,4 +32,7 @@ NOTAS
 
 TECNOLOGIAS
   Python 3, Tkinter (interfaz), SQLite (base de datos), openpyxl (Excel),
+  importar en la cmd
+  python3 -m pip install openpyxl mac
+  python -m pip install openpyxl windows
   hashlib PBKDF2-HMAC-SHA256 con salt aleatorio (contrasenas).
